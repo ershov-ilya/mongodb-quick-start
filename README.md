@@ -1,4 +1,4 @@
-﻿## Testing mongodb
+﻿## Quick starting with MongoDB
  
  Install Node.js MongoDB driver
  ```
